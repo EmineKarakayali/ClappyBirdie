@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637305900426",
+    "firebase_url": "https://clappybirdie-95dc5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "clappybirdie-95dc5",
+    "storage_bucket": "clappybirdie-95dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637305900426:android:49602c46f07542b4648c73",
+        "android_client_info": {
+          "package_name": "com.Gordion.ClappyBirdie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637305900426-7epbtj4f96fojqstthre0d5essha4dkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqrtlFqzciu8_tDFUNROyd9LwGlayfMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637305900426-7epbtj4f96fojqstthre0d5essha4dkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

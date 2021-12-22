@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://clappybirdie-95dc5-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">637305900426</string>
+  <string name="google_storage_bucket" translatable="false">clappybirdie-95dc5.appspot.com</string>
+  <string name="project_id" translatable="false">clappybirdie-95dc5</string>
+  <string name="google_api_key" translatable="false">AIzaSyDXqrtlFqzciu8_tDFUNROyd9LwGlayfMA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDXqrtlFqzciu8_tDFUNROyd9LwGlayfMA</string>
+  <string name="google_app_id" translatable="false">1:637305900426:android:49602c46f07542b4648c73</string>
+  <string name="default_web_client_id" translatable="false">637305900426-7epbtj4f96fojqstthre0d5essha4dkg.apps.googleusercontent.com</string>
+</resources>
